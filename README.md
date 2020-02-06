@@ -1,3 +1,4 @@
 # tic_tac_toe
 a tic toe toe and 4 in row android game
-![Repo_list](screenshots/Screenshot_1.jpg)
+![alt text](https://github.com/AbbasAsadi/tic_tac_toe/master/screenshot/to/img.png)
+
